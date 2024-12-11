@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **nikki9462@protonmail.com**
 
-- ⚡ Fun fact **Your brain is constantly eating itself**
+- ⚡ Fun fact **Venus is the only planet to spin clockwise**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
