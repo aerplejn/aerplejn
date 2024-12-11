@@ -1,4 +1,4 @@
-Hi! I'm a passionate frontend developer
+<h3 align="left">Hi! I'm a passionate frontend developer:</h3>
 
 - 🔭 I’m currently working on [DTrace 2.0 for Gentoo](https://www.gentoo.org/news/2024/10/23/DTrace-for-Gentoo.html)
 
