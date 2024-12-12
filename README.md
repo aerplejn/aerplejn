@@ -9,7 +9,6 @@
 
 ```javascript
   const aer = {
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
     askMeAbout: ["web dev", "hacking", "app dev", "cloud computing", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
