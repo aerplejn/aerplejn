@@ -16,7 +16,7 @@
             css: ["Sass", "Tailwind", "Bootstrap"],
             uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
 
-            coorganizer: "Gentoo",
+                        coorganizer: "Gentoo",
                         mentor: "kallamej"
         },
         backEnd: {
