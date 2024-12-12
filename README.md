@@ -52,7 +52,8 @@
     },
     currentFocus: "Leading a way in generative AI innovation",
     funFact: "I can debug faster with drugs in my system"
-};
+}
+```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
