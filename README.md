@@ -1,4 +1,4 @@
-<h2> Hi, I'm aerplejn! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Aerplejn! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW52c2RncmFtNjR2OTF0MnpjdDA2MzRrd2k0Yzl3MTNoeDdlanh5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 <h3 align="left">A passionate frontend developer</h3> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenI1emtvNHZtdWMwbGpqeDFlY3NrYWMwdW4xbHE4M3hueHNrY285eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rRAZMcDBIi0AH9evw/giphy.gif" width="75"></h2>
 
