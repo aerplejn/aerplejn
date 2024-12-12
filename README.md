@@ -12,7 +12,7 @@
 
 ```javascript
   const aer = {
-    askMeAbout: ["web dev", "hacking", "app dev", "cloud computing", "crypto", "UI/UX", "tech trends"],
+    askMeAbout: ["web dev", "hacking", "app dev", "scripts", "cloud computing", "crypto", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
