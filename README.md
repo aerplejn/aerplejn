@@ -1,3 +1,4 @@
+<h2> Hi, I'm aerplejn! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="left">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [DTrace 2.0 for Gentoo](https://www.gentoo.org/news/2024/10/23/DTrace-for-Gentoo.html)
@@ -19,7 +20,5 @@
 <div align="left">
 <img height="200" src="https://i.imgflip.com/9di8e3.gif"  />
 </div>
-
-###
 
 ###
