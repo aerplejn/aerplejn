@@ -88,7 +88,6 @@
         mentor: "kallamej"
     },
     
-    // Added a personal touch with interests
     interests: [
         "Exploring cutting-edge tech",
         "Open-source contributions",
