@@ -93,7 +93,7 @@
 
     currentFocus: "Pioneering Innovations in Generative AI",
 
-    funFact: "I've successfully debugged code under the influence of drugs.",
+    funFact: "I can debug faster with drugs in my system.",
 
     roles: {
         coorganizer: "Gentoo Linux Community",
