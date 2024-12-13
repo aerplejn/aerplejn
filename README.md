@@ -13,7 +13,7 @@
 ```javascript
   const aboutme = {
     expertise: [
-        "web development", "cybersecurity", "hacking", "app development", "scripting", "cloud computing", 
+        "web development", "cybersecurity", "app development", "scripting", "cloud computing", 
         "crypto", "ui/ux design", "technology trends"
     ],
     technologies: {
