@@ -13,8 +13,8 @@
 ```javascript
   const aboutme = {
     expertise: [
-        "web development", "hacking", "app development", "scripting", "cloud computing", 
-        "cryptocurrency", "ui/ux design", "technology trends"
+        "web development", "cybersecurity", "hacking", "app development", "scripting", "cloud computing", 
+        "crypto", "ui/ux design", "technology trends"
     ],
     technologies: {
         frontend: { js: ["react", "next.js"], css: ["sass", "tailwind", "bootstrap"], ui: ["material ui", "ant design", "chakra ui"] },
