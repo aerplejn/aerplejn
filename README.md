@@ -39,7 +39,7 @@
     focus: "generative ai innovations",
     funfact: "I can debug faster with drugs in my system.",
     roles: { coorganizer: "gentoo linux", mentor: "kallamej" },
-    interests: ["os development" "tech exploration", "open-source", "cybersecurity"]
+    interests: ["os development" "tech exploration", "open-source", "OPSEC"]
 };
 
 ```
