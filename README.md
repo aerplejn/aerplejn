@@ -2,7 +2,7 @@
 
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW52c2RncmFtNjR2OTF0MnpjdDA2MzRrd2k0Yzl3MTNoeDdlanh5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 
-<h3>I'm a backend developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRseGMxcWNxOTZzc2IydWhuNGt4YWh1bmtucGV0ZWNsa215emtyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rRAZMcDBIi0AH9evw/giphy.gif" width="50"></h3>
+<h3>I'm a passionate backend developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRseGMxcWNxOTZzc2IydWhuNGt4YWh1bmtucGV0ZWNsa215emtyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rRAZMcDBIi0AH9evw/giphy.gif" width="50"></h3>
 
 <h3> Languages and Tools: 🛠️
 
