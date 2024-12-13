@@ -11,35 +11,35 @@
 ### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2poOGF3MWU5Y29mZWVjaHJ5MjFmMWoxbGZuc3Q1bW41aWt6cW53ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ItUjHV4lcdnIx4Pr2m/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-  const aboutMe = {
+  const aboutme = {
     expertise: [
-        "Web Development", "Hacking", "App Development", "Scripting", "Cloud Computing", 
-        "Cryptocurrency", "UI/UX Design", "Technology Trends"
+        "web development", "hacking", "app development", "scripting", "cloud computing", 
+        "cryptocurrency", "ui/ux design", "technology trends"
     ],
     technologies: {
-        frontEnd: { js: ["React", "Next.js"], css: ["Sass", "Tailwind", "Bootstrap"], ui: ["Material UI", "Ant Design", "Chakra UI"] },
-        backEnd: { js: ["Node.js", "Express", "NestJS"], python: ["Flask", "Django"] },
-        mobile: ["Flutter", "React Native"],
-        devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions", "Kubernetes"],
+        frontend: { js: ["react", "next.js"], css: ["sass", "tailwind", "bootstrap"], ui: ["material ui", "ant design", "chakra ui"] },
+        backend: { js: ["node.js", "express", "nestjs"], python: ["flask", "django"] },
+        mobile: ["flutter", "react native"],
+        devops: ["docker", "ci/cd", "nginx", "github actions", "kubernetes"],
         cloud: { 
-            aws: ["Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS", "DynamoDB"],
-            gcp: ["Cloud Functions", "Compute Engine", "Cloud Storage"],
-            azure: ["Functions", "App Services"]
+            aws: ["fargate", "ec2", "s3", "lambda", "cloudwatch", "rds", "dynamodb"],
+            gcp: ["cloud functions", "compute engine", "cloud storage"],
+            azure: ["functions", "app services"]
         },
-        db: ["PostgreSQL", "MongoDB", "SQLite", "Firebase", "Redis", "Cassandra"],
-        misc: ["Socket.IO", "REST", "WebSockets", "GraphQL"],
-        ai: ["GPT", "Vectorization", "Stable Diffusion"]
+        db: ["postgresql", "mongodb", "sqlite", "firebase", "redis", "cassandra"],
+        misc: ["socket.io", "rest", "websockets", "graphql"],
+        ai: ["gpt", "vectorization", "stable diffusion"]
     },
     architecture: {
-        front: ["SPA", "SSR", "PWA"],
-        back: ["Microservices", "Monolithic", "Serverless", "Event-Driven"],
-        ops: ["CloudFormation", "Serverless", "Terraform"],
-        db: ["Relational", "NoSQL", "In-memory", "Graph"]
+        front: ["spa", "ssr", "pwa"],
+        back: ["microservices", "monolithic", "serverless", "event-driven"],
+        ops: ["cloudformation", "serverless", "terraform"],
+        db: ["relational", "nosql", "in-memory", "graph"]
     },
-    focus: "Generative AI Innovations",
-    funFact: "I can debug faster with drugs in my system.",
-    roles: { coorganizer: "Gentoo Linux", mentor: "kallamej" },
-    interests: ["Tech Exploration", "Open-Source", "Cybersecurity"]
+    focus: "generative ai innovations",
+    funfact: "I can debug faster with drugs in my system.",
+    roles: { coorganizer: "gentoo linux", mentor: "kallamej" },
+    interests: ["tech exploration", "open-source", "cybersecurity"]
 };
 
 ```
