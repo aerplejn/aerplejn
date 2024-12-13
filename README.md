@@ -11,101 +11,37 @@
 ### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2poOGF3MWU5Y29mZWVjaHJ5MjFmMWoxbGZuc3Q1bW41aWt6cW53ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ItUjHV4lcdnIx4Pr2m/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-  const aer = {
-    askMeAbout: [
-        "Web Development",
-        "Hacking",
-        "App Development",
-        "Scripting",
-        "Cloud Computing",
-        "Cryptocurrency",
-        "UI/UX Design",
-        "Technology Trends"
+  const aboutMe = {
+    expertise: [
+        "Web Development", "Hacking", "App Development", "Scripting", "Cloud Computing", 
+        "Cryptocurrency", "UI/UX Design", "Technology Trends"
     ],
-
     technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind CSS", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        frontEnd: { js: ["React", "Next.js"], css: ["Sass", "Tailwind", "Bootstrap"], ui: ["Material UI", "Ant Design", "Chakra UI"] },
+        backEnd: { js: ["Node.js", "Express", "NestJS"], python: ["Flask", "Django"] },
+        mobile: ["Flutter", "React Native"],
+        devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions", "Kubernetes"],
+        cloud: { 
+            aws: ["Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS", "DynamoDB"],
+            gcp: ["Cloud Functions", "Compute Engine", "Cloud Storage"],
+            azure: ["Functions", "App Services"]
         },
-        backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["Flask", "Django"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter", "React Native"],
-        },
-        devOps: [
-            "Docker",
-            "CI/CD Pipelines",
-            "Nginx",
-            "GitHub Actions",
-            "Kubernetes"
-        ],
-        cloudServices: {
-            aws: [
-                "AWS Fargate",
-                "EC2",
-                "S3",
-                "Lambda",
-                "CloudWatch",
-                "RDS",
-                "DynamoDB"
-            ],
-            gcp: [
-                "Google Cloud Functions",
-                "Compute Engine",
-                "Cloud Storage"
-            ],
-            azure: [
-                "Azure Functions",
-                "App Services"
-            ]
-        },
-        databases: [
-            "PostgreSQL",
-            "MongoDB",
-            "SQLite",
-            "Firebase Realtime Database",
-            "Redis",
-            "Cassandra"
-        ],
-        misc: [
-            "Socket.IO",
-            "REST APIs",
-            "WebSockets",
-            "GraphQL"
-        ],
-        generativeAI: [
-            "GPT",
-            "Vectorization",
-            "Stable Diffusion"
-        ],
+        db: ["PostgreSQL", "MongoDB", "SQLite", "Firebase", "Redis", "Cassandra"],
+        misc: ["Socket.IO", "REST", "WebSockets", "GraphQL"],
+        ai: ["GPT", "Vectorization", "Stable Diffusion"]
     },
-
     architecture: {
-        frontEnd: ["SPA", "SSR", "PWA"],
-        backEnd: ["Microservices", "Monolithic", "Serverless", "Event-Driven"],
-        devOps: ["AWS CloudFormation", "Serverless Framework", "Terraform"],
-        databases: ["Relational", "NoSQL", "In-memory", "Graph"],
+        front: ["SPA", "SSR", "PWA"],
+        back: ["Microservices", "Monolithic", "Serverless", "Event-Driven"],
+        ops: ["CloudFormation", "Serverless", "Terraform"],
+        db: ["Relational", "NoSQL", "In-memory", "Graph"]
     },
-
-    currentFocus: "Pioneering Innovations in Generative AI",
-
+    focus: "Generative AI Innovations",
     funFact: "I can debug faster with drugs in my system.",
-
-    roles: {
-        coorganizer: "Gentoo Linux Community",
-        mentor: "kallamej"
-    },
-    
-    interests: [
-        "Exploring Cutting-Edge Technologies",
-        "Contributing to Open-Source Projects",
-        "Engaging in Cybersecurity Challenges"
-    ]
+    roles: { coorganizer: "Gentoo Linux", mentor: "kallamej" },
+    interests: ["Tech Exploration", "Open-Source", "Cybersecurity"]
 };
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'd be happy to chat!</b> :D</em>
