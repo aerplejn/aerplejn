@@ -13,14 +13,14 @@
 ```javascript
   const aer = {
     askMeAbout: [
-        "web dev", 
-        "hacking", 
-        "app dev", 
-        "scripts", 
-        "cloud computing", 
-        "crypto", 
-        "UI/UX", 
-        "tech trends"
+        "Web Development",
+        "Hacking",
+        "App Development",
+        "Scripting",
+        "Cloud Computing",
+        "Cryptocurrency",
+        "UI/UX Design",
+        "Technology Trends"
     ],
 
     technologies: {
@@ -28,70 +28,82 @@
             js: ["React", "Next.js"],
             css: ["Sass", "Tailwind CSS", "Bootstrap"],
             uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
-
         },
         backEnd: {
             js: ["Node.js", "Express", "NestJS"],
-            python: ["Flask"],
+            python: ["Flask", "Django"],
         },
         mobileApp: {
-            crossPlatform: ["Flutter"],
+            crossPlatform: ["Flutter", "React Native"],
         },
         devOps: [
-            "Docker", 
-            "CI/CD", 
-            "Nginx", 
-            "GitHub Actions"
+            "Docker",
+            "CI/CD Pipelines",
+            "Nginx",
+            "GitHub Actions",
+            "Kubernetes"
         ],
         cloudServices: {
             aws: [
-                "AWS Fargate", 
-                "EC2", 
-                "S3", 
-                "Lambda", 
-                "CloudWatch", 
-                "RDS"
+                "AWS Fargate",
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudWatch",
+                "RDS",
+                "DynamoDB"
             ],
+            gcp: [
+                "Google Cloud Functions",
+                "Compute Engine",
+                "Cloud Storage"
+            ],
+            azure: [
+                "Azure Functions",
+                "App Services"
+            ]
         },
         databases: [
-            "PostgreSQL", 
-            "MongoDB", 
-            "SQLite", 
-            "Firebase Realtime Database", 
-            "Redis"
+            "PostgreSQL",
+            "MongoDB",
+            "SQLite",
+            "Firebase Realtime Database",
+            "Redis",
+            "Cassandra"
         ],
         misc: [
-            "Socket.IO", 
-            "REST APIs", 
-            "WebSockets", 
-            "Cloud Functions"
+            "Socket.IO",
+            "REST APIs",
+            "WebSockets",
+            "GraphQL"
         ],
         generativeAI: [
-            "GPT", 
-            "Vectorization"
+            "GPT",
+            "Vectorization",
+            "Stable Diffusion"
         ],
     },
 
     architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["Microservices", "Monolithic", "Serverless"],
-        devOps: ["AWS CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
+        frontEnd: ["SPA", "SSR", "PWA"],
+        backEnd: ["Microservices", "Monolithic", "Serverless", "Event-Driven"],
+        devOps: ["AWS CloudFormation", "Serverless Framework", "Terraform"],
+        databases: ["Relational", "NoSQL", "In-memory", "Graph"],
     },
 
-    currentFocus: "Leading the way in Generative AI Innovation",
+    currentFocus: "Pioneering Innovations in Generative AI",
 
-    funFact: "I can debug faster with drugs in my system",
+    funFact: "I've successfully debugged code under the influence of caffeine, not drugs.",
 
     roles: {
-        coorganizer: "Gentoo",
+        coorganizer: "Gentoo Linux Community",
         mentor: "kallamej"
     },
     
     interests: [
-        "Exploring cutting-edge tech",
-        "Open-source contributions",
-        "Cybersecurity challenges"
+        "Exploring Cutting-Edge Technologies",
+        "Contributing to Open-Source Projects",
+        "Engaging in Cybersecurity Challenges"
     ]
 };
 ```
