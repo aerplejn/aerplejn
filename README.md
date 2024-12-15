@@ -14,7 +14,7 @@
   const aboutme = {
     expertise: [
         "web development", "cybersecurity", "app development", "scripting", "cloud computing", 
-        "crypto", "ui/ux design", "technology trends"
+        "blockchain", "ui/ux design", "technology trends"
     ],
     technologies: {
         frontend: { js: ["react", "next.js"], css: ["sass", "tailwind", "bootstrap"], ui: ["material ui", "ant design", "chakra ui"] },
