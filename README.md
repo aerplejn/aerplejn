@@ -1,8 +1,8 @@
-<h2>yo 
+<h2>hi
 
 <img align="right" src="https://www.gentoo.org/assets/img/logo/gentoo-3d-small.png" alt="Developer at Work" width="100">
 
-<h3>Fullstack prodigy and neovim enjoyer.</h3>
+<h3>Fullstack prodigy and neovim enjoyer</h3>
 
 <h3>Languages and Tools: 🛠️</h3>
 
