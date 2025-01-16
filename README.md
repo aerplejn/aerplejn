@@ -1,8 +1,8 @@
-<h2>Hello, World! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Hello World Animation" width="50"></h2>
+<h2>yo 
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW52c2RncmFtNjR2OTF0MnpjdDA2MzRrd2k0Yzl3MTNoeDdlanh5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Developer at Work" width="230">
+<img align="right" src="https://www.gentoo.org/assets/img/logo/gentoo-3d-small.png" alt="Developer at Work" width="100">
 
-<h3>I'm a passionate backend developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRseGMxcWNxOTZzc2IydWhuNGt4YWh1bmtucGV0ZWNsa215emtyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rRAZMcDBIi0AH9evw/giphy.gif" alt="Coding Animation" width="50"></h3>
+<h3>Fullstack prodigy and neovim enjoyer.</h3>
 
 <h3>Languages and Tools: 🛠️</h3>
 
@@ -27,7 +27,7 @@
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="assembly" width="40" height="40"></a>
 </p>
 
-<h3><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2poOGF3MWU5Y29mZWVjaHJ5MjFmMWoxbGZuc3Q1bW41aWt6cW53ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ItUjHV4lcdnIx4Pr2m/giphy.gif" alt="More About Me" width="50"> A little more about me...</h3>  
+<h3><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRseGMxcWNxOTZzc2IydWhuNGt4YWh1bmtucGV0ZWNsa215emtyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rRAZMcDBIi0AH9evw/giphy.gif" alt="More About Me" width="50"> A little more about me...</h3>  
 
 ```javascript
   const aboutme = {
