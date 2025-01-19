@@ -5,15 +5,12 @@
 I try to think of my code as art while creating my twisted utopia of life as if it was a black mirror episode. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 <p align="left">
-   <a href="https://bsky.app/profile/aerplejn">
-      <img alt="bluesky" title="Follow me on Bluesky" src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF"/></a> 
-   <a href="https://behance.net/aerplejn">
-      <img alt="behance" title="Check out my Behance profile" src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a> 
-   <a href="https://stackoverflow.com/users/your-user-id">
+ <a href="https://stackoverflow.com/users/your-user-id">
       <img alt="stackoverflow" title="Visit my Stack Overflow profile" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
    <a href="https://codepen.io/aerplejn">
       <img alt="codepen" title="See my CodePen projects" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </p>
+
 ---
 
 ### 🧰 Languages and Tools
