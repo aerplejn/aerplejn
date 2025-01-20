@@ -79,10 +79,10 @@ I think of my code as art, it keeps me motivated while I slowly debug myself to 
 
 👩🏻‍💻 Current focus: Security, stability, performance. Package & kernel work.  
 🌷 #learninginpublic 
-💭 Learning: System programming, kernel, Linux, SELinux  
+💭 Learning: OS programming, kernel, Linux, SELinux  
 🤝 Collaborations: Kernel modules, optimizations, Gentoo  
 ❓ Help with: Kernel subsystems, haskell programming, hardened security  
-🗣️ Ask about: Gentoo, kernel, Linux optimization  
+🗣️ Ask about: Neovim, kernel, Linux optimization  
 📬 Contact: aerplejn@protonmail.com
 
 
