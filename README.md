@@ -74,17 +74,14 @@ I think of my code as art, it keeps me motivated during my psychotic 30+ hour vi
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 ---
-
-### 💬 About Me
-
-👩🏻‍💻 Interested in: generative ai innovations, security, stability, open-source & kernel work.  
-🌷 #learninginpublic 
-💭 Needs improvement: OS development, kernel, ui/ux design, selinux  
-🤝 Collaborations: would love to collab with an leading os developer or selinux gigachad.  
-❓ Can assist with: Kernel subsystems, packages, haskell   
-🗣️ Ask about: Gentoo, arch, neovim, tech trends 
+💬 About Me    
+👩🏻‍💻 Interested in: generative AI innovations, security, stability, open-source & kernel work.                                              
+🌷 #learninginpublic  
+💭 Needs improvement: OS development, kernel, UI/UX design, SELinux  
+🤝 Collaborations: would love to collab with a leading OS developer or SELinux gigachad.  
+❓ Can assist with: Kernel subsystems, packages, Haskell  
+🗣️ Ask about: Gentoo, Arch, Neovim, tech trends  
 📬 Contact: aerplejn@protonmail.com
-
 
 ---
 
