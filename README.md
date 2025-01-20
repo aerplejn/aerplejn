@@ -1,6 +1,6 @@
 # 🏄‍♂️ aerplejn
 
-**`Gentoo Contributor/Maintainer (OS Programmer/Kernel Developer)`**
+**`Gentoo Contributor (OS Programmer/Kernel Developer)`**
 
 I think of my code as art, it keeps me motivated during my psychotic 30+ hour vim sessions.. A perfect utopia for my escapism. I also like tinkering, math, security, and running Gentoo on various devices until they break. *P.S. - If you're using Windows, please refrain from further communication.*  
 
@@ -78,7 +78,7 @@ I think of my code as art, it keeps me motivated during my psychotic 30+ hour vi
 👩🏻‍💻 Interested in: generative AI innovations, security, stability, open-source & kernel work.                                              
 🌷 #learninginpublic  
 💭 Needs improvement: OS development, kernel, UI/UX design, SELinux  
-🤝 Collaborations: would love to collab with a leading OS developer or SELinux gigachad.  
+🤝 Collaborations: would be cool to collab with a leading OS developer or SELinux gigachad.  
 ❓ Can assist with: Kernel subsystems, packages, Haskell  
 🗣️ Ask about: Gentoo, Arch, Neovim, tech trends  
 📬 Contact: aerplejn@protonmail.com
