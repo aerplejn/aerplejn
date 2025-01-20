@@ -2,7 +2,7 @@
 
 **`Gentoo contributer (System Programmer/Kernel Developer)`**
 
-I think of my code as art, it keeps me motivated during my psychotic 30+ hour sessions.. A perfect utopia for my escapism. Oh, I also like tinkering, math, security, and running Gentoo on various devices until they break. 
+I think of my code as art, it keeps me motivated during my psychotic 30+ hour sessions.. A perfect utopia for my escapism. I also like tinkering, math, security, and running Gentoo on various devices until they break. 
 
 <p align="left">
  <a href="https://stackoverflow.com/users/29260841">
