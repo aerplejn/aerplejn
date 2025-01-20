@@ -2,7 +2,7 @@
 
 **`Gentoo Contributor/Maintainer (OS Programmer/Kernel Developer)`**
 
-I think of my code as art, it keeps me motivated during my psychotic 30+ hour vim sessions.. A perfect utopia for my escapism. I also like tinkering, math, security, and running Gentoo on various devices until they break. 
+I think of my code as art, it keeps me motivated during my psychotic 30+ hour vim sessions.. A perfect utopia for my escapism. I also like tinkering, math, security, and running Gentoo on various devices until they break. *P.S. - If you're using Windows, please refrain from further communication.*  
 
 <p align="left">
  <a href="https://stackoverflow.com/users/29260841">
@@ -77,12 +77,12 @@ I think of my code as art, it keeps me motivated during my psychotic 30+ hour vi
 
 ### 💬 About Me
 
-👩🏻‍💻 Current focus: Security, stability, performance. Package & kernel work.  
+👩🏻‍💻 Interested in generative ai innovations, security, stability, open-source & kernel work.  
 🌷 #learninginpublic 
-💭 Learning: OS programming, kernel, Linux, SELinux  
-🤝 Collaborations: Kernel modules, optimizations, Gentoo  
-❓ Help with: Kernel subsystems, haskell programming, hardened security  
-🗣️ Ask about: Neovim, kernel, Linux optimization  
+💭 Needs improvement: OS development, kernel, ui/ux design, selinux  
+🤝 Collaborations: would love to collab with an leading os developer or selinux gigachad.  
+❓ Can assist with: Kernel subsystems, packages, haskell   
+🗣️ Ask about: Gentoo, arch, neovim, tech trends 
 📬 Contact: aerplejn@protonmail.com
 
 
