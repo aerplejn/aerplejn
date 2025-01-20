@@ -1,8 +1,8 @@
 # 🏄‍♂️ aerplejn
 
-**`Gentoo Contributor (OS Programmer/Kernel Developer)`**
+**`Gentoo Contributor (OS Programmer/Linux Kernel Developer)`**
 
-I think of my code as art, it keeps me motivated during my psychotic 30+ hour vim sessions.. A perfect utopia for my escapism. I also like tinkering, math, security, and running Gentoo on various devices until they break. *P.S. - If you're using Windows, please refrain from further communication.*  
+I think of my code as art, it keeps me motivated during my psychotic 30+ hour vim sessions. I also like tinkering, math, cyber security, and running Gentoo on various devices until they break. 
 
 <p align="left">
  <a href="https://stackoverflow.com/users/29260841">
