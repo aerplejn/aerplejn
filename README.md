@@ -77,7 +77,7 @@ I think of my code as art, it keeps me motivated during my psychotic 30+ hour vi
 
 ### 💬 About Me
 
-👩🏻‍💻 Interested in generative ai innovations, security, stability, open-source & kernel work.  
+👩🏻‍💻 Interested in: generative ai innovations, security, stability, open-source & kernel work.  
 🌷 #learninginpublic 
 💭 Needs improvement: OS development, kernel, ui/ux design, selinux  
 🤝 Collaborations: would love to collab with an leading os developer or selinux gigachad.  
