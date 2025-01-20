@@ -1,6 +1,6 @@
 # 🏄‍♂️ aerplejn
 
-**`Gentoo Contributor/Maintainer (System Programmer/Kernel Developer)`**
+**`Gentoo Contributor/Maintainer (OS Programmer/Kernel Developer)`**
 
 I think of my code as art, it keeps me motivated during my psychotic 30+ hour vim sessions.. A perfect utopia for my escapism. I also like tinkering, math, security, and running Gentoo on various devices until they break. 
 
