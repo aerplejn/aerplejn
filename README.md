@@ -2,7 +2,7 @@
 
 **`Gentoo contributer (System Programmer/Kernel Developer)`**
 
-I try to think of my code as art while creating my twisted utopia of life as if it was a black mirror episode. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I think of my code as art, it keeps me motivated while I slowly debug myself to death. A perfect imaginary world for my escapism. Oh, I also like tinkering, maths, security, and running Gentoo on various devices until they break. 
 
 <p align="left">
  <a href="https://stackoverflow.com/users/29260841">
