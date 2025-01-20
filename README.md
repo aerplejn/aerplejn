@@ -5,7 +5,7 @@
 I try to think of my code as art while creating my twisted utopia of life as if it was a black mirror episode. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 <p align="left">
- <a href="https://stackoverflow.com/users/your-user-id">
+ <a href="https://stackoverflow.com/users/29260841">
       <img alt="stackoverflow" title="Visit my Stack Overflow profile" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
    <a href="https://codepen.io/aerplejn">
       <img alt="codepen" title="See my CodePen projects" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
