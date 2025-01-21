@@ -2,7 +2,7 @@
 
 **`Gentoo Contributor (OS Programmer/Linux Kernel Developer)`**
 
-I think of my code as art, it keeps me motivated during my psychotic 30+ hour vim sessions. I also like tinkering, math, cyber security, and running Gentoo on various devices until they break. 
+I perceive myself primarily as an artist rather than a programmer. I regard my code as a form of art, which sustains m motivation through my psychotic 30-hour vim sessions. Additionally, I am interested in tinkering, mathematics, cybersecurity, and experimenting with Gentoo installations on diverse hardware until they break.
 
 <p align="left">
  <a href="https://stackoverflow.com/users/29260841">
