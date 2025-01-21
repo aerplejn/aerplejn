@@ -77,7 +77,7 @@ Art in programming is about expressing creativity through the medium of code, wh
 💬 About Me    
 👩🏻‍💻 Interested in: os development, generative ai innovations, security, selinux, open-source                                              
 🌷 #learninginpublic  
-🤝 Collaborations: would be cool to collab with a leading OS developer or selinux expert  
+🤝 Collaborations: would be cool to collab with a leading os developer or selinux expert  
 ❓ Can assist with: kernel subsystems, packages, haskell  
 🗣️ Ask about: gentoo, arch, neovim, tech trends  
 📬 Contact: aerplejn@protonmail.com
