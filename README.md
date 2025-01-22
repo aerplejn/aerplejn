@@ -2,7 +2,7 @@
 
 **`Gentoo Contributor (OS Programmer/Linux Kernel Developer)`**
 
-The art of programming is about expressing creativity through the medium of code, where the developer's role blurs with that of an artist. This intersection encourages not only technical proficiency but also fosters innovation, beauty, and a deeper understanding of both art and technology. Now with that said, I like tinkering, mathematics, cybersecurity, and experimenting with Linux installations until they break. 🤣
+The art of programming is about expressing creativity through the medium of code, where the developer's role blurs with that of an artist. This intersection encourages not only technical proficiency but also fosters innovation, beauty, and a deeper understanding of both art and technology. Now with that said, I like tinkering, mathematics, cybersecurity, and experimenting with Linux installations until they break.
 
 <p align="left">
  <a href="https://stackoverflow.com/users/29260841">
