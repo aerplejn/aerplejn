@@ -2,7 +2,7 @@
 
 **`Gentoo Contributor (OS Programmer/Linux Kernel Developer)`**
 
-The art of programming is about expressing creativity through the medium of code, where the developer's role blurs with that of an artist. This intersection encourages not only technical proficiency but also fosters innovation, beauty, and a deeper understanding of both art and technology.
+Programming is an art form that allows developers to express their creativity through code. In this realm, the roles of developer and artist often intertwine. This combination not only requires technical skills but also promotes innovation, beauty, and a deeper appreciation for both art and technology.
 
 <p align="left">
  <a href="https://stackoverflow.com/users/29260841">
